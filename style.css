@@ -1,3 +1,4 @@
+/* These are the general stylings for the root and body elements... */
 @import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
 
 * {
@@ -16,6 +17,8 @@ body {
   overflow: hidden;
   margin: 0;
 }
+
+/* And these are for the buttons... */
 
 .btn {
   background-color: rebeccapurple;
